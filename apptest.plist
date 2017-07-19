@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://211.149.209.221:8080/pmph_imesp/apptest/renwei.ipa</string>
+					<string>http://medu.ipmph.com/pmph_imesp/web/meduapp/renwei.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-			<string>http://211.149.209.221:8080/pmph_imesp/apptest/icon.png</string>
+			<string>http://medu.ipmph.com/pmph_imesp/web/meduapp/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://211.149.209.221:8080/pmph_imesp/apptest/icon.png</string>
+					<string>http://medu.ipmph.com/pmph_imesp/web/meduapp/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
